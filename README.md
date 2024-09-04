@@ -10,6 +10,7 @@
 - Quản lý giáo viên: Thêm, sửa, xóa và xem thông tin giáo viên.
 - Quản lý lớp học: Thêm, sửa, xóa và xem thông tin lớp học.
 - Xác thực và phân quyền: Hệ thống đăng nhập với vai trò quản trị viên.
+- ...
 
 ## Cấu trúc dự án
 
@@ -65,7 +66,7 @@
 
 1. Clone repository này:
    ```bash
-   git clone <URL của repository này>
+   git clone <https://github.com/tiennehihi/JavaSwing_StudentManagement.git>
    cd Student-Management
    ```
 
